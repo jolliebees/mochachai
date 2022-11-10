@@ -1,6 +1,6 @@
-👋 Hi, I’m @jolliebees
+👋  Hi, I’m @jolliebees
 
-:seedling: I'm currently learning HTML, CSS, and Javascript.
+:herb: In the past years, I learned Phyton, R, and SQL. And currently, I'm  learning HTML, CSS, and Javascript.
 
 <!---
 jolliebees/jolliebees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
