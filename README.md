@@ -4,7 +4,7 @@
 
 🌺 I enjoy learning new things.
 
-🌺 In the past years, I learned Phyton, R, and SQL for Relational Database.
+🌺 In the past years, I've learned Phyton, R, and SQL for Relational Database.
 
 🌺 And currently, I'm  learning HTML, CSS, and Javascript for Front-end Development.
 
