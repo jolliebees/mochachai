@@ -6,7 +6,8 @@
 
 🌺 In the past years, I've learned Phyton, R, and SQL for Relational Database.
 
-🌺 And currently, I'm  learning HTML, CSS, and Javascript for Front-end Development.
+🌺 And currently, I'm  learning different type of programming language such as: HTML, CSS, and Javascript for Front-end Development;
+   and C++ (part of school degree requirement); and C# , why not 😉.
 
 🌿 In free time, I loves to hike in the nature with my husband and my dog.
  
