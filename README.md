@@ -1,4 +1,4 @@
-👋  Hi, I’m @mochandchai
+👋  Hi, I’m @mochachai
 
 🌺 I'm a student in software engineering and a web developer.
 
