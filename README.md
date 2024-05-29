@@ -1,6 +1,6 @@
 👋  Hi, I’m @mochachai
 
-🌺 I'm a student in software engineering and a web developer.
+🌺 I'm a software engineering and a web developer.
 
 🌺 I enjoy learning new things.
 
